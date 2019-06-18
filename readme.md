@@ -19,5 +19,36 @@ Styled ha absorvido todo el trabajo de la rama master, sin problema.
 
 - El merge del paso 19, ¿ Cuasó algún conflicto? ¿Por qué?
 
+Si ha habido un conflicto. Al hacer el merge, el archivo git-nuestro.md creaba el conflicto, puesto que git no ha sabido unirlo. 
+He tenido que abrir el archivo y modificarlo. He leido tarde el punto 20 y me he quedado con los cambios del HTML
+que la rama htmlify nos daba :-).Voy a tener que modificar el archivo y volver a ponerle asteriscos ;-).
 
+- El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
+
+Este merge, no ha causado ningún conflicto.
+Porque al estar en la rama master que se habia quedado atras, ha podido absorber todas las modifaciones de la rama styled.
+Si, lo sé tengo que modificar el archivo git-nuestro en styled y volver a los asteriscos.
+
+-¿Qué comando o comandos utilizaste en el paso 25?
+
+
+- El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
+
+
+- ¿Qué comando o comandos utilizaste en el paso 27?
+
+
+- ¿Qué comando o comandos utilizaste en el paso 28?
+
+
+- ¿Qué comando o comandos utilizaste en el paso 29?
+
+
+- ¿Qué comando o comandos utilizaste en el paso 30?
+
+
+- ¿Qué comando o comandos utilizaste en el paso 33?
+
+
+- ¿Qué comando o comandos utilizaste en el paso 33?
 
