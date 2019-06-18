@@ -12,6 +12,12 @@ Pues he buscado el commit con *reflog*, posteriormente he utilizado *checkout* a
 Me he cambiado a la rama master con *checkout* y he eliminado la rama styled con *git branch -d styled*.
 Me he posicionado otra vez en el commit y he creado nuevamente la rama styled con *git branch styled*.
 
-- El merge del 13, ¿Causo algún conflicto? ¿Por qué?
+- El merge del 13, ¿Causó algún conflicto? ¿Por qué?
+
+No me ha creado ningún conflicto. Me he movido al commit inicial, para crear el readme.md y posteriormente he hecho el merge.
+Styled ha absorvido todo el trabajo de la rama master, sin problema.
+
+- El merge del paso 19, ¿ Cuasó algún conflicto? ¿Por qué?
+
 
 
