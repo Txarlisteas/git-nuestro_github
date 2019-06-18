@@ -39,6 +39,9 @@ Y posteriormente en la consola y en la rama master he metido el comando "git gra
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
+Si que sería posible hacer un merge con fast forward, lo que sucede que con fast forward cuando master absorbe a title,
+quedarían en una misma rama. Haciendolo con no fast forward, se mantiene la rama title, y master continua.
+El commit que se genera, tiene dos padres. Haciendolo con Fast Forward, movemos el puntero y master absorbe el trabajo de title.
 
 - ¿Qué comando o comandos utilizaste en el paso 27?
 
