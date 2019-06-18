@@ -45,17 +45,22 @@ El commit que se genera, tiene dos padres. Haciendolo con Fast Forward, movemos 
 
 - ¿Qué comando o comandos utilizaste en el paso 27?
 
+Para deshacer el merge, he buscado el hus con reflog y he utilizado git reset con el hus.
+Asi se quedan los archivos git-nuestro.md y readme.md en el working copy.
 
 - ¿Qué comando o comandos utilizaste en el paso 28?
-
+Para descartar los cambios de git-nuestro, he utilizado "git checkout git-nuestro.md" para descartar los cambios.
+Asi lo recomendaba GIT.
 
 - ¿Qué comando o comandos utilizaste en el paso 29?
 
+Para eliminar la rama, he utilizado git branch reset -D title.
 
 - ¿Qué comando o comandos utilizaste en el paso 30?
 
 
-- ¿Qué comando o comandos utilizaste en el paso 33?
+
+- ¿Qué comando o comandos utilizaste en el paso 32?
 
 
 - ¿Qué comando o comandos utilizaste en el paso 33?
