@@ -31,6 +31,11 @@ Si, lo sé tengo que modificar el archivo git-nuestro en styled y volver a los a
 
 -¿Qué comando o comandos utilizaste en el paso 25?
 
+Para dibujar el gráfico, he hecho un "nano ~/.config" y he modificado el archivo metiendo en la última linea, lo siguiente:
+
+graph = log --all --graph --decorate --oneline
+
+Y posteriormente en la consola y en la rama master he metido el comando "git graph".
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
