@@ -8,7 +8,7 @@ He utilizado el comando *git reset --hard HEAD~1*, para eliminar el commit y per
 
 - ¿Qué comando o comando utilizaste en el paso 12? ¿Por qué?
 
-Pues he buscado el commit con *reflog*, posteriormente he utilizado *checkout* al hush del commit.
+Pues he buscado el commit con *reflog*, posteriormente he utilizado *checkout* a la referencia corta del commit.
 Me he cambiado a la rama master con *checkout* y he eliminado la rama styled con *git branch -d styled*.
 Me he posicionado otra vez en el commit y he creado nuevamente la rama styled con *git branch styled*.
 
@@ -45,7 +45,7 @@ El commit que se genera, tiene dos padres. Haciendolo con Fast Forward, movemos 
 
 - ¿Qué comando o comandos utilizaste en el paso 27?
 
-Para deshacer el merge, he buscado el hus con reflog y he utilizado git reset con el hus.
+Para deshacer el merge, he buscado el commit con reflog y he utilizado git reset con la referencia corta del commit.
 Asi se quedan los archivos git-nuestro.md y readme.md en el working copy.
 
 - ¿Qué comando o comandos utilizaste en el paso 28?
@@ -58,7 +58,7 @@ Para eliminar la rama, he utilizado git branch reset -D title.
 
 - ¿Qué comando o comandos utilizaste en el paso 30?
 
-
+Para rehacer el merge, he buscado el commit y he hecho un reset con la referencia corta.
 
 - ¿Qué comando o comandos utilizaste en el paso 32?
 
