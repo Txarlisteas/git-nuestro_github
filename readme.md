@@ -57,11 +57,9 @@ Asi lo recomendaba GIT.
 Para eliminar la rama, he utilizado git branch reset -D title.
 
 - ¿Qué comando o comandos utilizaste en el paso 30?
-
-Para rehacer el merge, he buscado el commit y he hecho un reset con la referencia corta.
-
 - ¿Qué comando o comandos utilizaste en el paso 32?
-
+Utilizando el comando "checkout" y la referencia del commit que he buscado con reflog.
 
 - ¿Qué comando o comandos utilizaste en el paso 33?
 
+Utilizando el comando "checkout" y la referencia del commit que he buscado con reflog.
